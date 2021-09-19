@@ -1,6 +1,6 @@
 # Halauko Alena  
 
----
+![](https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/41654898_1015400828630813_6589839760443834368_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG0oZ3SZ9PsOsAD40G7ipiAajgDTeQSzitqOANN5BLOK956tUVDELJt-5DaQL-hEGz7502p52BKiw61tXTiakpE&_nc_ohc=VSvIwH_vnosAX-y0CfF&_nc_ht=scontent-waw1-1.xx&oh=b6a5e17570da670f1e0fb0bd3fd914a0&oe=616C4A0F)
 
 ## Contact information:
 
