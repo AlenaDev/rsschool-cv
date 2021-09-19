@@ -1,0 +1,93 @@
+body { 
+    background-color:#D4D0D0;
+        }
+
+.main-block {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+    display: inline-flex;
+    background-color: #E9E5E5;
+    border: 10px solid #6E6D6D;
+       
+}
+
+.left-column {
+    margin-left: 5px auto;
+    padding-left: 5px;
+    float: left;
+    width: 75%;
+    height: 100%;
+} 
+
+.right-column {
+    margin-right: 5px auto;
+    float: right;
+    width: 25%;
+    padding-right: 5px;
+    background-color:#D4D0D0;  
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    font-size: 50px;
+    text-align: center;   
+}
+
+#head-c-i {
+    margin-top: 30px;
+    font-size: 32px;
+    text-align: center;
+}   
+
+h2 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#first-paragraph {
+   margin-top: 157px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+ul {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+   	height: 6px;
+	background: #6E6D6D;
+}
+
+figure {
+    max-width: 100%;
+    display: flex;  
+    margin-left: 30px;
+}
+
+aside {
+padding: 10px;    
+}
+
+#contacts {
+text-align: center;
+}
+
+#rsschool_logo {
+   float: left;   
+}
+
+#github-logo {
+    float: right;
+}
+
+#year {
+    margin-bottom: -20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px; 
+}
